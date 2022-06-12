@@ -54,7 +54,7 @@ ul {
 	
 }
 .header__logo{
-	background: url('flower.ico') center center/ contain no-repeat;
+	background: url("flower.ico") center center/ contain no-repeat;
 	width: 70px;
 	height: 70px;
 	border-radius: 50%;
